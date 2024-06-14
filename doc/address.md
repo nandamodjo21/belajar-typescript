@@ -131,7 +131,6 @@ Endpoint :  GET /api/contact/:idContact/addresses
 Request Header : 
 - X-API-TOKEN : token
 Request Body :
-```json
 
 Response Body (success) :
 
